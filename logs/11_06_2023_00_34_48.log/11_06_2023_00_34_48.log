@@ -1,0 +1,9 @@
+[ 2023-11-06 00:34:48,759 ] 96 werkzeug - WARNING -  * Debugger is active!
+[ 2023-11-06 00:34:48,762 ] 96 werkzeug - INFO -  * Debugger PIN: 535-031-896
+[ 2023-11-06 00:34:58,708 ] 96 werkzeug - INFO - 127.0.0.1 - - [06/Nov/2023 00:34:58] "GET / HTTP/1.1" 200 -
+[ 2023-11-06 00:34:58,846 ] 96 werkzeug - INFO - 127.0.0.1 - - [06/Nov/2023 00:34:58] "GET /static/css/styles.css HTTP/1.1" 200 -
+[ 2023-11-06 00:34:58,950 ] 96 werkzeug - INFO - 127.0.0.1 - - [06/Nov/2023 00:34:58] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+[ 2023-11-06 00:35:04,751 ] 96 werkzeug - INFO - 127.0.0.1 - - [06/Nov/2023 00:35:04] "GET /predictdata HTTP/1.1" 200 -
+[ 2023-11-06 00:35:04,983 ] 96 werkzeug - INFO - 127.0.0.1 - - [06/Nov/2023 00:35:04] "[36mGET /static/css/styles_home.css HTTP/1.1[0m" 304 -
+[ 2023-11-06 00:36:55,127 ] 96 werkzeug - INFO - 127.0.0.1 - - [06/Nov/2023 00:36:55] "POST /predictdata HTTP/1.1" 200 -
+[ 2023-11-06 00:36:55,226 ] 96 werkzeug - INFO - 127.0.0.1 - - [06/Nov/2023 00:36:55] "[36mGET /static/css/styles_home.css HTTP/1.1[0m" 304 -
