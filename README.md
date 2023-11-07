@@ -40,7 +40,7 @@ The response from the /predict endpoint will be displayed on the home page via P
 
 # Contributors
 
-- [Rajat Khandelwal](https://github.com/Mr-Khandelwal)
+-[Ansh Mishra](https://github.com/Mr-Khandelwal)
 - [Rhythm](https://github.com/Rhythm-Gubrani)
 - [Prerna Badlani](https://github.com/prerna0208)
 - [Riya Sumra](https://github.com/riyasumra)
